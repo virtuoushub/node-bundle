@@ -13,5 +13,5 @@ tasks:
 
 include:
   - type: git
-    repo: https://github.com/batect/bundle-dev-bundle.git
+    repo: https://github.com/virtuoushub/bundle-dev-bundle.git
     ref: 0.4.0
